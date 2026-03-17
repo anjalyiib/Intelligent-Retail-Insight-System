@@ -11,10 +11,10 @@ This project is a data-driven retail analytics system that provides insights suc
 
 # Technologies
 -Python
--streamlit
--pandas
--numpy
--scikit-learn
--mlxtend
--huggingface_hub
+-Streamlit
+-Pandas
+-Numpy
+-Scikit-learn
+-Mlxtend
+-huggingface Hub
 
